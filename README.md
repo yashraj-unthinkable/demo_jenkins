@@ -1,1 +1,1 @@
-# demo_jenkins
+# demo project for jenkins practice.
